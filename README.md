@@ -40,6 +40,8 @@ As a fundamental subject, this course equips the students with theory and practi
     
 
 📌𝓡𝓮𝓯𝓵𝓮𝓬𝓽𝓲𝓸𝓷📌
+
+
 This is perhaps the most significant learning that I undertook as part of the course for C++ taken in university. This really took me into the realm of object-oriented programming and also built excellent problem-solving capabilities through the various practical lessons I have gone through. Important things like arrays, file input/output, and even object-oriented basics make a part of these many learned subjects. While I enjoyed understanding how to write and organize code, I found working with arrays and handling input and output files particularly challenging. Coursework involved the creation of programs and debugging complicated codes that challenged my logical thinking and attention to detail. Teamwork projects also prepared me on how to go about teamwork and communicating effectively with others in programming. Fortunately, with the support of my group member Vera Sam, I could complete all my programming assignments. In general, this course improved not only my technical skills but also sparked a more profound interest in advanced topics of computer science. This course gave me a very strong foundation to continue improving my programming skills.
 
 I suggest, in the future, to have more programming projects actually given out, so that we can develop our programming skills.
