@@ -6,6 +6,8 @@ Overview of Programming Technique 1
 
 
 💁🏻‍♀️ 𝓒𝓸𝓾𝓻𝓼𝓮 𝓼𝔂𝓷𝓸𝓹𝓼𝓲𝓼 💁🏻‍♀️
+
+
 As a fundamental subject, this course equips the students with theory and practice on problem solving techniques by using the structured approach. Students are required to develop programs using C++ programming language, in order to solve simple to moderate problems. The course covers the following: preprocessor directives, constants and variables, data types, input and output statements, control structures: sequential, selection and loop, built-in and user-defined functions, single and two dimensional arrays, file operations, pointers, and structured data types.
 💫Course coordinator : Alif Ridzuan Khairuddin
 💫Course lecturer : Dr. Goh Eg Su
@@ -25,6 +27,8 @@ As a fundamental subject, this course equips the students with theory and practi
 
 
 💞 𝓐𝓼𝓼𝓲𝓰𝓷𝓶𝓮𝓷𝓽𝓼  💞
+
+
     ▪ Assignment 1 
     
     ▪ Assignment 2 
